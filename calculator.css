@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+html,body {
+    font-family: 'Dosis', sans-serif;
+}
+.button {
+    width: 55px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row {
+    margin: 6px 0;
+}
+
+.row input {
+    font-size: 19px;
+    margin: 0;
+    padding: 14px 5px;
+    border: 2px solid black;
+    border-radius: 9px;
+}
